@@ -1,2 +1,2 @@
 # ProjectASCIITimer
-Project ASCII Timer Axe JV A2 2023
+Project ASCII Timer JV A2 2023
